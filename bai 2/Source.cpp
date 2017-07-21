@@ -7,6 +7,5 @@ int main()
 	b.nhap();
 	b.xuat();
 	c.nhap();
-	c.xuat();
 	return 0;
 }
